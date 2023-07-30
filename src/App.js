@@ -29,7 +29,8 @@ function App() {
           <a href="https://www.google.com">
             <img src={download} className="download" alt="download from app store" />
           </a>
-          <div className="bottom-area">
+      </div>
+      <div className="bottom-area">
             <div className="links-container">
               <a href="privacy-policy.html">Privacy Policy</a>
               <div style={{width: 20}}></div>
@@ -37,8 +38,6 @@ function App() {
             </div>
             <h4>spid.video.edit@gmail.com</h4>
           </div>
-      </div>
-      
     </div>
   );
 }
