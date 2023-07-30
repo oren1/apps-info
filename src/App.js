@@ -30,7 +30,12 @@ function App() {
             <img src={download} className="download" alt="download from app store" />
           </a>
           <div className="bottom-area">
-            <h4>Contact Email: spid.video.edit@gmail.com</h4>
+          <div className="links-container">
+            <a href="privacy-policy.html">Privacy Policy</a>
+            <div style={{width: 20}}></div>
+            <a href="terms-of-use.html">Terms Of Use</a>
+          </div>
+            <h4>spid.video.edit@gmail.com</h4>
           </div>
       </div>
 
