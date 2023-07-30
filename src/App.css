@@ -13,7 +13,7 @@
   flex-direction: column;
   justify-content:  center;
   align-items: center;
-  height: 100vh;
+  height: 90vh;
   width: 100%;
   color: white;
 }
@@ -23,6 +23,7 @@
   background-color: black;
   position: absolute;
   bottom: 0px;
+  height: 10vh;
   display: flex;
   flex-direction: column;
   justify-content: top;
