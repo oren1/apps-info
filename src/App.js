@@ -29,15 +29,16 @@ function App() {
           <a href="https://www.google.com">
             <img src={download} className="download" alt="download from app store" />
           </a>
-      </div>
-      <div className="bottom-area">
-          <div className="links-container">
-            <a href="privacy-policy.html">Privacy Policy</a>
-            <div style={{width: 20}}></div>
-            <a href="terms-of-use.html">Terms Of Use</a>
-          </div>
+          <div className="bottom-area">
+            <div className="links-container">
+              <a href="privacy-policy.html">Privacy Policy</a>
+              <div style={{width: 20}}></div>
+              <a href="terms-of-use.html">Terms Of Use</a>
+            </div>
             <h4>spid.video.edit@gmail.com</h4>
           </div>
+      </div>
+      
     </div>
   );
 }
